@@ -1,4 +1,4 @@
-# Python-Search-Results
+# PythonSearchResults
 Docker上でPythonを使用してSeleniumを動かしてみる。
 
 ## 開発に使用した技術
